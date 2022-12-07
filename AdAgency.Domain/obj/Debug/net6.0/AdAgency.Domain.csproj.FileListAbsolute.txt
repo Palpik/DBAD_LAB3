@@ -1,0 +1,14 @@
+D:\ВУЗ\5 сем Разработка Приложение баз данных для ИС\LAB3 LAST\AdAgency\AdAgency.Domain\bin\Debug\net6.0\AdAgency.Domain.deps.json
+D:\ВУЗ\5 сем Разработка Приложение баз данных для ИС\LAB3 LAST\AdAgency\AdAgency.Domain\bin\Debug\net6.0\AdAgency.Domain.runtimeconfig.json
+D:\ВУЗ\5 сем Разработка Приложение баз данных для ИС\LAB3 LAST\AdAgency\AdAgency.Domain\bin\Debug\net6.0\AdAgency.Domain.dll
+D:\ВУЗ\5 сем Разработка Приложение баз данных для ИС\LAB3 LAST\AdAgency\AdAgency.Domain\bin\Debug\net6.0\AdAgency.Domain.pdb
+D:\ВУЗ\5 сем Разработка Приложение баз данных для ИС\LAB3 LAST\AdAgency\AdAgency.Domain\obj\Debug\net6.0\AdAgency.Domain.csproj.AssemblyReference.cache
+D:\ВУЗ\5 сем Разработка Приложение баз данных для ИС\LAB3 LAST\AdAgency\AdAgency.Domain\obj\Debug\net6.0\AdAgency.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВУЗ\5 сем Разработка Приложение баз данных для ИС\LAB3 LAST\AdAgency\AdAgency.Domain\obj\Debug\net6.0\AdAgency.Domain.AssemblyInfoInputs.cache
+D:\ВУЗ\5 сем Разработка Приложение баз данных для ИС\LAB3 LAST\AdAgency\AdAgency.Domain\obj\Debug\net6.0\AdAgency.Domain.AssemblyInfo.cs
+D:\ВУЗ\5 сем Разработка Приложение баз данных для ИС\LAB3 LAST\AdAgency\AdAgency.Domain\obj\Debug\net6.0\AdAgency.Domain.csproj.CoreCompileInputs.cache
+D:\ВУЗ\5 сем Разработка Приложение баз данных для ИС\LAB3 LAST\AdAgency\AdAgency.Domain\obj\Debug\net6.0\AdAgency.Domain.dll
+D:\ВУЗ\5 сем Разработка Приложение баз данных для ИС\LAB3 LAST\AdAgency\AdAgency.Domain\obj\Debug\net6.0\refint\AdAgency.Domain.dll
+D:\ВУЗ\5 сем Разработка Приложение баз данных для ИС\LAB3 LAST\AdAgency\AdAgency.Domain\obj\Debug\net6.0\AdAgency.Domain.pdb
+D:\ВУЗ\5 сем Разработка Приложение баз данных для ИС\LAB3 LAST\AdAgency\AdAgency.Domain\obj\Debug\net6.0\AdAgency.Domain.genruntimeconfig.cache
+D:\ВУЗ\5 сем Разработка Приложение баз данных для ИС\LAB3 LAST\AdAgency\AdAgency.Domain\obj\Debug\net6.0\ref\AdAgency.Domain.dll
